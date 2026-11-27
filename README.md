@@ -13,6 +13,7 @@ It's a static HTML site (no build step) based on the *Future Imperfect* template
 | `Vipul-Suresh-Resume.pdf` | Resume linked from the nav bar |
 | `images/` | Project images (lowercase, no spaces) |
 | `assets/css/main.css` | Compiled styles (edit `assets/sass/` and recompile, or edit this directly) |
+| `svip.github.io/` | Redirect from the old address (vipulvs91.github.io/svip.github.io/) |
 | `.nojekyll` | Tells GitHub Pages to serve the files as they are, without Jekyll |
 
 ## Updating
